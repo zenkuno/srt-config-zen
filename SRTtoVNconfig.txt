@@ -1,6 +1,7 @@
-DEFAULT_MODEL_NAME = 'gemini-2.0-flash-lite'
+DEFAULT_MODEL_NAME = 'gemini-live-2.5-flash-preview'
 DEFAULT_API_KEY = "AIzaSyA_C97sohOy0afHORN0e950_GAb3_SHVLA"
 API_KEY = "AIzaSyA_C97sohOy0afHORN0e950_GAb3_SHVLA"
+
 
 
 
